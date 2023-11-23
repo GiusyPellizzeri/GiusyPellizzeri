@@ -1,7 +1,7 @@
 <img text-align="center" src="https://i.pinimg.com/736x/2b/63/dc/2b63dcb66f527174ecb9f34a515f8fc7.jpg" />
 
 ### Hello💕
-qui dovrei inserire una descrizione carina ma non mi viene in mente niente quindi ciao😽
+qui dovrei inserire una descrizione carina ma non mi viene in mente niente per ora quindi ciao😽
 
 ### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiusyPellizzeri"/>
