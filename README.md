@@ -16,7 +16,7 @@ qui dovrei inserire una descrizione carina ma non mi viene in mente niente per o
 
 ### Fields of application
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg"></code>
 
 <!---
 ### Stats 📈
